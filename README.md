@@ -19,7 +19,7 @@ Jamboree has helped thousands of students like you make it to top colleges abroa
      •	Import the dataset and do usual exploratory data analysis steps like checking the structure & characteristics of the dataset.
      •	Drop the unique row Identifier if you see any. This step is important as you don’t want your model to build some understanding based on row numbers.
      •	Using Non-graphical and graphical analysis for getting inferences about variables.
-        o	This can be done by checking the distribution of variables of graduate applicants.
+         o	This can be done by checking the distribution of variables of graduate applicants.
      •	Once you’ve ensured that students with varied merit apply for the university, you can start understanding the relationship between different factors responsible for graduate admissions.
      •	Check correlation among independent variables and how they interact with each other.
      •	Use Linear Regression from (Statsmodel library) and explain the results.
