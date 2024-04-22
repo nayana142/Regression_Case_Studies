@@ -1,5 +1,5 @@
 # House Prices - Advanced Regression Techniques
-                       ![image](https://github.com/nayana142/Regression_Case_Studies/assets/120770261/e6b30b2b-b25e-4f91-93c5-36d0e80b67d8)![image](https://github.com/nayana142/Regression_Case_Studies/assets/120770261/6f729d17-c422-4907-826f-a4a52a84c697)
+  ![image](https://github.com/nayana142/Regression_Case_Studies/assets/120770261/e6b30b2b-b25e-4f91-93c5-36d0e80b67d8)![image](https://github.com/nayana142/Regression_Case_Studies/assets/120770261/6f729d17-c422-4907-826f-a4a52a84c697)
 ## Business Problem
      Predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
 ## File descriptions
