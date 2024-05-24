@@ -136,3 +136,48 @@ Jamboree has helped thousands of students like you make it to top colleges abroa
 ## Concept Used:
     •	Exploratory Data Analysis
     •	Linear Regression
+    
+# Zomato Stock Price Analysis📊🍗🏨🍴
+
+![image](https://github.com/nayana142/Regression_Case_Studies/assets/120770261/2132d510-06a9-4aa7-9edb-b00e2842cfd1)
+
+## About Dataset
+    Zomato is a leading global food delivery and restaurant discovery platform, founded in 2008 by Deepinder Goyal and Pankaj Chaddah.
+    Initially launched as Foodiebay, the platform rebranded to Zomato in 2010 and rapidly expanded its services beyond restaurant discovery
+    to include online ordering, food delivery, and restaurant reservations. Today, Zomato operates in numerous countries and serves millions 
+    of users, playing a crucial role in the food tech industry.This dataset provides an extensive record of Zomato's stock price changes since
+    May 2021. It includes essential columns such as the date, opening price, highest price of the day, lowest price of the day, closing price, 
+    adjusted closing price, and trading volume.
+
+## About this file
+    This dataset provides an extensive record of Zomato's stock price changes since May 2021. It includes essential columns such as the date, 
+    opening price, highest price of the day, lowest price of the day, closing price, adjusted closing price, and trading volume.
+## Dataset
+    https://www.kaggle.com/datasets/mayankanand2701/zomato-stock-price-dataset/data
+
+## Column Profiling:
+
+    • Date:
+    This column represents the date on which the stock market was open and trading occurred. Each row in the dataset corresponds to a particular trading day.
+    
+    • Opening Price:
+    The opening price is the price at which the stock trades when the market opens for the day. It's the first recorded price of the stock on that trading day.
+    
+    • Highest Price of the Day:
+    This column represents the highest price at which the stock traded during the trading session on that particular day. It provides insight into the highest price investors were willing to pay for the stock on that day.
+    
+    • Lowest Price of the Day:
+    The lowest price of the day is the minimum price at which the stock traded during the trading session. It indicates the lowest price at which investors were willing to sell the stock on that day.
+    
+    • Closing Price:
+    The closing price is the final price at which the stock traded when the market closed for the day. It's the last recorded price of the stock on that trading day.
+    
+    • Adjusted Closing Price:
+    The adjusted closing price is the closing price of the stock adjusted for any corporate actions that occurred, such as stock splits or dividends. It accounts for these factors to provide a more accurate reflection of the stock's value over time.
+    
+    • Trading Volume:
+    This column represents the total number of shares of the stock that were traded on that particular trading day. It indicates the level of market activity and liquidity for the stock on that day. Higher trading volume often indicates increased investor interest or significant market events.
+    
+
+
+
